@@ -14,7 +14,7 @@ export interface QuestionBlock {
   questions: Question[];
 }
 
-export type QuizPhase = 'IDLE' | 'SERVICE_MAIN' | 'SZYBKA_5' | 'BENEFITS_VIEW' | 'DETAILED_INTRO' | 'DETAILED_SURVEY' | 'SUMMARY';
+export type QuizPhase = 'IDLE' | 'SERVICE_MAIN' | 'SZYBKA_5' | 'BENEFITS_VIEW' | 'VERIFICATION_SUCCESS' | 'DETAILED_INTRO' | 'DETAILED_SURVEY' | 'SUMMARY';
 
 export interface FlaggedAnswer {
   questionId: number;

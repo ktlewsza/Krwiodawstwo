@@ -1,0 +1,5 @@
+{
+  "name": "Prototyp najnowszy",
+  "description": "An interactive prototype for the 'KREW' module in the mObywatel app, designed to verify blood donation eligibility using a 5-step screening process.",
+  "requestFramePermissions": []
+}
